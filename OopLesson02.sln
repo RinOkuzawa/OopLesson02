@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOSample", "ADOSample\ADOSample.csproj", "{282C2F73-9198-403C-B1DD-79C1BB36AC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282C2F73-9198-403C-B1DD-79C1BB36AC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282C2F73-9198-403C-B1DD-79C1BB36AC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282C2F73-9198-403C-B1DD-79C1BB36AC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282C2F73-9198-403C-B1DD-79C1BB36AC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCB1B03-BA1E-4A29-9996-2F23D4F452CC}
+	EndGlobalSection
+EndGlobal
